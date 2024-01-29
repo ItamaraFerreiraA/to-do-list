@@ -2,7 +2,7 @@
 
 To-do list is a PHP web application to save your daily tasks and not forget anything.
 
-![image](https://github.com/ItamaraFerreiraA/to-do-list/assets/86384151/b6b3799a-5da5-4ca2-8a9d-d37fdd57aedb)
+![image](https://github.com/ItamaraFerreiraA/to-do-list/assets/86384151/77600f97-7ae1-4baa-b354-f60aff3a1cd8)
 
 
 ### Features:
